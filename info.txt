@@ -1,0 +1,3 @@
+RUN API FAKE
+
+json-server server.json -p 3333
